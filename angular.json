@@ -127,5 +127,13 @@
       }
     }
   },
+<<<<<<< HEAD
   "defaultProject": "hubble-app"
 }
+=======
+  "defaultProject": "hubble-app",
+  "cli": {
+    "analytics": "12498a82-3114-470f-acc7-1fe79b397f83"
+  }
+}
+>>>>>>> 6015c0691ce0c6117c89396c9bf3243f430556be
